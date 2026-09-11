@@ -1,11 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 轻量广告拦截规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2026-08-06 15:13:11（北京时间）
-! Version: 20260806151311
-! Total Count: 5886
+! Update Time: 2026-09-09 08:11:33（北京时间）
+! Version: 20260909081133
+! Total Count: 5891
 ! by: 酷安@大萌主
 ! domain name
+||wgwt5p8.com^
+||wewubuwgz.com^
+||xn--czru2dx3eszw3lat53b.com^
 ||cssstyle.motorcycles^
 ||aizhantj.com^
 ||lxrjekw.com^
@@ -5885,9 +5888,11 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##div.page.list div.small-icon-container
 ##DIV.swiper-container.swiper-container-horizontal.swiper-container-ios.swiper-container-wp8-horizontal.swiper-container-initialized.swiper-container-android
 ##div.pannel > div.grid
+##div.footer-area.mobile DIV#banner_container
 ##div.page-d.page-turn > [style='position: relative; margin: auto; clear: both; width: 300px;']
 ##body.__amp.amp-mode-touch IFRAME[frameborder='0'][framespacing='0']
 ##DIV.small-icon-container.is_mb
+##.ippure-ads.right-one
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 ! gif ads
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
